@@ -9,5 +9,11 @@ public class TipCalc {
         System.out.print("Enter party size: ");
         int numPeople=s.nextInt();
 
+        double totalTip= (totalBill*tipPercent)/100;
+        double finalBill=totalBill+totalTip;
+        double soloBill=finalBill/numPeople;
+        double tipPerPerson=totalTip/numPeople;
+
+
     }
 }
