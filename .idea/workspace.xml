@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b4d1ece-51a6-4c5d-ade5-25ca706c7566" name="Changes" comment="Scanner statements + all user input variables">
+    <list default="true" id="3b4d1ece-51a6-4c5d-ade5-25ca706c7566" name="Changes" comment="added non-user input variables and intialized them">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TipCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TipCalc.java" afterDir="false" />
     </list>
@@ -70,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663775468955</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added non-user input variables and intialized them">
+      <created>1663776405129</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663776405129</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Scanner statements + all user input variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="Scanner statements + all user input variables" />
+    <MESSAGE value="added non-user input variables and intialized them" />
+    <option name="LAST_COMMIT_MESSAGE" value="added non-user input variables and intialized them" />
   </component>
 </project>
