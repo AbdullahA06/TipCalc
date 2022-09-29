@@ -91,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664416579377</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Cleaned up code, added space in print statements for readability, changed print statements to allow for a more fluent answer.">
+      <created>1664417658914</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664417658914</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
