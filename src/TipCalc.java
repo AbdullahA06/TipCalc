@@ -15,8 +15,14 @@ public class TipCalc {
         double soloBill=finalBill/numPeople;
         double tipPerPerson=totalTip/numPeople;
 
-        System.out.print("For tips every person in your party has to pay $");
+        System.out.print("Your party has, in total, tipped $");
+        System.out.format("%.2f%n",totalTip);
+
+        System.out.print("That means in tips every person in your party has to pay $");
         System.out.format("%.2f%n",tipPerPerson);
+
+        System.out.print("Your party's total bill including the tip is $");
+        System.out.format("%.2f%n",finalBill);
 
         System.out.print("In total every person in your party has to pay $");
         System.out.format("%.2f%n",soloBill);
