@@ -9,6 +9,7 @@ public class TipCalc {
         double tipPercent=s.nextDouble();
         System.out.print("Enter party size: ");
         int numPeople=s.nextInt();
+        System.out.println();
 
         double totalTip= (totalBill*tipPercent)/100;
         double finalBill=totalBill+totalTip;
@@ -17,15 +18,19 @@ public class TipCalc {
 
         System.out.print("Your party has, in total, tipped $");
         System.out.format("%.2f%n",totalTip);
+        System.out.println();
 
-        System.out.print("That means in tips every person in your party has to pay $");
-        System.out.format("%.2f%n",tipPerPerson);
-
-        System.out.print("Your party's total bill including the tip is $");
+        System.out.print("Which means your party's total bill including the tip is $");
         System.out.format("%.2f%n",finalBill);
+        System.out.println();
 
-        System.out.print("In total every person in your party has to pay $");
+        System.out.print("That also means in tips every person in your party has to pay $");
+        System.out.format("%.2f%n",tipPerPerson);
+        System.out.println();
+
+        System.out.print("So in total every person in your party has to pay $");
         System.out.format("%.2f%n",soloBill);
+        System.out.println();
 
 
     }
