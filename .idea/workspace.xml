@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b4d1ece-51a6-4c5d-ade5-25ca706c7566" name="Changes" comment="Added finalBill and totalTip print statements.">
+    <list default="true" id="3b4d1ece-51a6-4c5d-ade5-25ca706c7566" name="Changes" comment="Cleaned up code, added space in print statements for readability, changed print statements to allow for a more fluent answer.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TipCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TipCalc.java" afterDir="false" />
     </list>
@@ -84,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664415961146</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Cleaned up code, added space in print statements for readability, changed print statements to allow for a more fluent answer.">
+      <created>1664416579377</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664416579377</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +109,7 @@
     <MESSAGE value="Scanner statements + all user input variables" />
     <MESSAGE value="added non-user input variables and intialized them" />
     <MESSAGE value="Added finalBill and totalTip print statements." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added finalBill and totalTip print statements." />
+    <MESSAGE value="Cleaned up code, added space in print statements for readability, changed print statements to allow for a more fluent answer." />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaned up code, added space in print statements for readability, changed print statements to allow for a more fluent answer." />
   </component>
 </project>
